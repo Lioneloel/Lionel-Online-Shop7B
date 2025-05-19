@@ -1,0 +1,4 @@
+Pewarnaan
+
+primary color: D84040
+secondary color: A31D1D
